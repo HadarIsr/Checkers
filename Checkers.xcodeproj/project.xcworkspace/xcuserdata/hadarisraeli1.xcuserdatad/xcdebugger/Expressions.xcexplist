@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FindSingelSourceMovesRightRec:Ques1.c">
+      </ContextState>
+      <ContextState
+         contextName = "builedListrec:Ques2.c">
+      </ContextState>
+      <ContextState
+         contextName = "Turn:Ques4.c">
+      </ContextState>
+      <ContextState
+         contextName = "findAllPossiblePlayerMoves:Ques3.c">
+      </ContextState>
+      <ContextState
+         contextName = "FindSingelSourceMovesLeftRec:Ques1.c">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
