@@ -36,7 +36,7 @@ void copyBoard (Board board,Board boardcopy){
 }
 
 int boardInRange(checkersPos pos){//check the range
-    
+    //TODO: Change hard coded vars to CONSTANTS
     if (pos.row <= 'H' && pos.row >= 'A')
         if (pos.col <= '8' &&pos.col >= '1')
             return 1;
@@ -70,13 +70,13 @@ checkersPos advancedCheckerPos(char player, int side, checkersPos pos){
     }
     
     if(side == LEFT){
-        newPos.col = pos.col-1;
-        newPos.row = pos.row -1;
+        newPos.col = pos.col - 1;
+        newPos.row = pos.row - 1;
         return newPos;
     }
     
-    newPos.col = pos.col+1;
-    newPos.row = pos.row-1;
+    newPos.col = pos.col + 1;
+    newPos.row = pos.row - 1;
     return newPos;
     
 }
