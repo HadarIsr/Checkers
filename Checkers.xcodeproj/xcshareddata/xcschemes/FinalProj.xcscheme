@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1FCF5B7A2292AC08009DA7B2"
-               BuildableName = "FinalProj"
-               BlueprintName = "FinalProj"
-               ReferencedContainer = "container:FinalProj.xcodeproj">
+               BuildableName = "Checkers"
+               BlueprintName = "Checkers"
+               ReferencedContainer = "container:Checkers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1FCF5B7A2292AC08009DA7B2"
-            BuildableName = "FinalProj"
-            BlueprintName = "FinalProj"
-            ReferencedContainer = "container:FinalProj.xcodeproj">
+            BuildableName = "Checkers"
+            BlueprintName = "Checkers"
+            ReferencedContainer = "container:Checkers.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -47,7 +47,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/hadarisraeli1/Desktop/Hadar"
+      customWorkingDirectory = "/Users/hadarisraeli1/Repositories/Checkers/Checkers"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1FCF5B7A2292AC08009DA7B2"
-            BuildableName = "FinalProj"
-            BlueprintName = "FinalProj"
-            ReferencedContainer = "container:FinalProj.xcodeproj">
+            BuildableName = "Checkers"
+            BlueprintName = "Checkers"
+            ReferencedContainer = "container:Checkers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1FCF5B7A2292AC08009DA7B2"
-            BuildableName = "FinalProj"
-            BlueprintName = "FinalProj"
-            ReferencedContainer = "container:FinalProj.xcodeproj">
+            BuildableName = "Checkers"
+            BlueprintName = "Checkers"
+            ReferencedContainer = "container:Checkers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

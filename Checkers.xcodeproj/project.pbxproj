@@ -37,7 +37,7 @@
 		1FC23AEA22C4D78E00525C9F /* Ques4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Ques4.c; sourceTree = "<group>"; };
 		1FC23AEC22C7602700525C9F /* Ques2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ques2.h; sourceTree = "<group>"; };
 		1FC23AED22C7603F00525C9F /* Ques2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Ques2.c; sourceTree = "<group>"; };
-		1FCF5B7B2292AC08009DA7B2 /* FinalProj */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FinalProj; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FCF5B7B2292AC08009DA7B2 /* Checkers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Checkers; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FCF5B7E2292AC08009DA7B2 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		1FCF5B862294AE3B009DA7B2 /* Ques1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ques1.h; sourceTree = "<group>"; };
 		1FCF5B872294AE55009DA7B2 /* Ques1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Ques1.c; sourceTree = "<group>"; };
@@ -59,7 +59,7 @@
 		1FCF5B722292AC08009DA7B2 = {
 			isa = PBXGroup;
 			children = (
-				1FCF5B7D2292AC08009DA7B2 /* FinalProj */,
+				1FCF5B7D2292AC08009DA7B2 /* Checkers */,
 				1FCF5B7C2292AC08009DA7B2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -67,12 +67,12 @@
 		1FCF5B7C2292AC08009DA7B2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1FCF5B7B2292AC08009DA7B2 /* FinalProj */,
+				1FCF5B7B2292AC08009DA7B2 /* Checkers */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1FCF5B7D2292AC08009DA7B2 /* FinalProj */ = {
+		1FCF5B7D2292AC08009DA7B2 /* Checkers */ = {
 			isa = PBXGroup;
 			children = (
 				1FCF5B7E2292AC08009DA7B2 /* main.c */,
@@ -89,15 +89,15 @@
 				1F955AD622CD282A004C5749 /* Ques7.h */,
 				1F955AD722CD2877004C5749 /* Ques7.c */,
 			);
-			path = FinalProj;
+			path = Checkers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1FCF5B7A2292AC08009DA7B2 /* FinalProj */ = {
+		1FCF5B7A2292AC08009DA7B2 /* Checkers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1FCF5B822292AC08009DA7B2 /* Build configuration list for PBXNativeTarget "FinalProj" */;
+			buildConfigurationList = 1FCF5B822292AC08009DA7B2 /* Build configuration list for PBXNativeTarget "Checkers" */;
 			buildPhases = (
 				1FCF5B772292AC08009DA7B2 /* Sources */,
 				1FCF5B782292AC08009DA7B2 /* Frameworks */,
@@ -107,9 +107,9 @@
 			);
 			dependencies = (
 			);
-			name = FinalProj;
+			name = Checkers;
 			productName = FinalProj;
-			productReference = 1FCF5B7B2292AC08009DA7B2 /* FinalProj */;
+			productReference = 1FCF5B7B2292AC08009DA7B2 /* Checkers */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -126,7 +126,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1FCF5B762292AC08009DA7B2 /* Build configuration list for PBXProject "FinalProj" */;
+			buildConfigurationList = 1FCF5B762292AC08009DA7B2 /* Build configuration list for PBXProject "Checkers" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -138,7 +138,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1FCF5B7A2292AC08009DA7B2 /* FinalProj */,
+				1FCF5B7A2292AC08009DA7B2 /* Checkers */,
 			);
 		};
 /* End PBXProject section */
@@ -291,7 +291,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1FCF5B762292AC08009DA7B2 /* Build configuration list for PBXProject "FinalProj" */ = {
+		1FCF5B762292AC08009DA7B2 /* Build configuration list for PBXProject "Checkers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FCF5B802292AC08009DA7B2 /* Debug */,
@@ -300,7 +300,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1FCF5B822292AC08009DA7B2 /* Build configuration list for PBXNativeTarget "FinalProj" */ = {
+		1FCF5B822292AC08009DA7B2 /* Build configuration list for PBXNativeTarget "Checkers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FCF5B832292AC08009DA7B2 /* Debug */,
